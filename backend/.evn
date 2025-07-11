@@ -1,0 +1,8 @@
+LLM_DB_HOST=postgres-db
+LLM_DB_PORT=5432
+LLM_DB_USER=postgres
+LLM_DB_PASS=1234
+LLM_DB_NAME=llm_db
+
+JWT_SECRET=supersecretjwtkey
+JWT_ALGORITHM=HS256
